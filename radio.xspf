@@ -75,7 +75,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://pri.gocaster.net/td4.m3u</location>
+      <location>https://stream.audioxi.com/TDAAC</location>
 			<title>Today FM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
@@ -83,7 +83,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://pri.gocaster.net/98.m3u</location>
+      <location>https://stream.audioxi.com/98</location>
 			<title>98FM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
@@ -91,7 +91,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://31.14.40.241:6184/listen.pls</location>
+      <location>https://wg.cdn.tibus.net/fm104MP3128</location>
 			<title>FM104</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
@@ -99,7 +99,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://radionova128.media.vistatec.ie/listen.pls</location>
+      <location>https://stream.audioxi.com/NOVA</location>
 			<title>Radio Nova</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>12</vlc:id>
@@ -107,7 +107,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://pri.gocaster.net/sp.m3u</location>
+      <location>https://stream.audioxi.com/SP</location>
 			<title>Spin 103.8</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>13</vlc:id>
@@ -115,7 +115,7 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://pri.gocaster.net/NT.m3u</location>
+      <location>https://stream.audioxi.com/NT</location>
 			<title>Newstalk</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
@@ -123,16 +123,16 @@
 			</extension>
 		</track>
 		<track>
-      <location>http://pri.gocaster.net/tx.m3u</location>
-			<title>TXFM</title>
+      <location>https://wg.cdn.tibus.net/q102MP3128</location>
+			<title>Q102</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
 		<track>
-      <location>http://stream2.radiomonitor.com/Q102.m3u</location>
-			<title>Q102</title>
+      <location>https://stream.audioxi.com/CLASSIC</location>
+			<title>Classic Hits</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>16</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
