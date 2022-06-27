@@ -3,7 +3,7 @@
 	<title>Irish Radio Streams</title>
 	<trackList>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/radio1.m3u</location>
+			<location>https://www.rte.ie/manifests/radio1.m3u8</location>
 			<title>RTÉ Radio 1</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
@@ -11,7 +11,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/2fm.m3u</location>
+			<location>https://www.rte.ie/manifests/2fm.m3u8</location>
 			<title>RTÉ 2FM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
@@ -19,7 +19,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/rnag.m3u</location>
+			<location>https://www.rte.ie/manifests/rnag.m3u8</location>
 			<title>RTÉ Raidió na Gaeltachta</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
@@ -27,7 +27,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/lyric.m3u</location>
+			<location>https://www.rte.ie/manifests/lyric.m3u8</location>
 			<title>RTÉ Lyric FM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
@@ -35,7 +35,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/junior.m3u</location>
+			<location>https://www.rte.ie/manifests/junior.m3u8</location>
 			<title>RTÉjr</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
@@ -43,7 +43,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/pulse.m3u</location>
+			<location>https://www.rte.ie/manifests/pulse.m3u8</location>
 			<title>RTÉ Pulse</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
@@ -51,7 +51,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/2xm.m3u</location>
+			<location>https://www.rte.ie/manifests/2xm.m3u8</location>
 			<title>RTÉ 2XM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
@@ -59,7 +59,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/gold.m3u</location>
+			<location>https://www.rte.ie/manifests/gold.m3u8</location>
 			<title>RTÉ Gold</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
@@ -67,7 +67,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://av.rasset.ie/av/live/radio/radio1extra.m3u</location>
+			<location>https://www.rte.ie/manifests/radio1extra.m3u8</location>
 			<title>RTÉ Radio 1 Extra</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
